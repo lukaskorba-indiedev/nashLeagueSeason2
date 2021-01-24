@@ -16,5 +16,6 @@ jobs:
       run: |
           git config --global user.name 'lukaskorba-indiedev'
           git config --global user.email 'lukaskorba-indiedev@users.noreply.github.com'
+          git add -A
           git commit -am "Automated report"
           git push

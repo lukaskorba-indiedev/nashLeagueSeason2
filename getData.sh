@@ -17,8 +17,7 @@ listCompetitions {
     },
     listTeams(competitionId: $competitionId) {
       name
-      memberCount
-      teamMembers {
+      captain {
         name
         volume {
           amount
@@ -27,8 +26,22 @@ listCompetitions {
           amount
         }
       }
+      memberCount
+      rank
+      reward {
+        amount
+      }
       volume {
         amount
+      }
+      teamMembers {
+        name
+        volume {
+          amount
+        }
+        reward {
+          amount
+        }
       }
     }
   }

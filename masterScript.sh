@@ -1,8 +1,6 @@
 #!/bin/bash
-now=$(date +"%b_%d_%T")
+now=$(date +"%b_%d_%H-%M")
 
 sh ./getData.sh "$now"
-
-sleep 10
 
 ./processData "$now"

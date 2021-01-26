@@ -1,5 +1,20 @@
 {
   "ids" : {
+    "The Nashians " : [
+      "Cabba",
+      "Spally",
+      "Google",
+      "DV",
+      "Artful Dodger",
+      "Bel",
+      "CryptoChapter",
+      "Holy Dinosaur",
+      "TK",
+      "PCE",
+      "LAB",
+      "AWiseMan",
+      "NerV"
+    ],
     "Solo" : [
       "JP99",
       "FGH",
@@ -33,48 +48,18 @@
       "Mathis",
       "BP",
       "Leo",
-      "LoL HK"
+      "LoL HK",
+      "TNP",
+      "NJB"
     ],
-    "Team Fabibi" : [
-      "PN_COINDER",
-      "Fabibi",
-      "GO",
-      "DPSupreme",
-      "SvetJordanov",
-      "ATK",
-      "Rub",
-      "Parkus",
-      "stupZ",
-      "Snowman",
-      "DDS",
-      "Vince Sio",
-      "RAS",
-      "DV",
-      "KPL",
-      "UPD",
-      "MAR",
-      "MNP",
-      "FP",
-      "Risitas",
-      "Jonas Hgrbhh",
-      "KP",
-      "AmoraBrava",
-      "Knorr"
-    ],
-    "The Nashians " : [
-      "Cabba",
-      "Spally",
-      "Google",
-      "DV",
-      "Artful Dodger",
-      "Bel",
-      "CryptoChapter",
-      "Holy Dinosaur",
-      "TK",
-      "PCE",
-      "LAB",
-      "AWiseMan",
-      "NerV"
+    "The Trading Club" : [
+      "FGH",
+      "CAF",
+      "PA",
+      "DPPA",
+      "BMH",
+      "DR",
+      "JLH"
     ],
     "Team CloudBot" : [
       "Hunter",
@@ -170,6 +155,32 @@
       "SDH",
       "JT"
     ],
+    "Team Fabibi" : [
+      "PN_COINDER",
+      "Fabibi",
+      "GO",
+      "DPSupreme",
+      "SvetJordanov",
+      "ATK",
+      "Rub",
+      "Parkus",
+      "stupZ",
+      "Snowman",
+      "DDS",
+      "Vince Sio",
+      "RAS",
+      "DV",
+      "KPL",
+      "UPD",
+      "MAR",
+      "MNP",
+      "FP",
+      "Risitas",
+      "Jonas Hgrbhh",
+      "KP",
+      "AmoraBrava",
+      "Knorr"
+    ],
     "All for Nash" : [
       "JP99",
       "CV6",
@@ -185,16 +196,8 @@
       "GR",
       "PMM",
       "AFRD",
-      "matoK"
-    ],
-    "The Trading Club" : [
-      "FGH",
-      "CAF",
-      "PA",
-      "DPPA",
-      "BMH",
-      "DR",
-      "JLH"
+      "matoK",
+      "ADC"
     ]
   }
 }

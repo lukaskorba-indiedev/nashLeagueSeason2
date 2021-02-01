@@ -44,27 +44,6 @@
       "LB",
       "PKS"
     ],
-    "Gunbot Team" : [
-      "Gunthar",
-      "Chuck Norris",
-      "TR",
-      "AY",
-      "Uri",
-      "PhiJey",
-      "Kinny",
-      "SunproMicro",
-      "anon",
-      "WJO",
-      "5CAR",
-      "SDH",
-      "JT",
-      "MewSocial",
-      "VonCount",
-      "HPB",
-      "OatKazama",
-      "SPB",
-      "PWT"
-    ],
     "The Trading Club" : [
       "FGH",
       "CAF",
@@ -391,7 +370,29 @@
       "VNP",
       "RichadZg",
       "VS",
-      "Nash Moon"
+      "Nash Moon",
+      "PEVD"
+    ],
+    "Gunbot Team" : [
+      "Gunthar",
+      "Chuck Norris",
+      "TR",
+      "AY",
+      "Uri",
+      "PhiJey",
+      "Kinny",
+      "SunproMicro",
+      "anon",
+      "WJO",
+      "5CAR",
+      "SDH",
+      "JT",
+      "MewSocial",
+      "VonCount",
+      "HPB",
+      "OatKazama",
+      "SPB",
+      "PWT"
     ]
   }
 }

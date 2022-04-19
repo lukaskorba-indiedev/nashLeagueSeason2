@@ -59,7 +59,7 @@ PROCESSING SQUADS DONE
 ***    "Team CloudBot"
 ************************************************************************
 ADD these members to the sheet
-7327073
+-1
 5294837
 2433597
 782103
@@ -201,6 +201,7 @@ ADD these members to the sheet
 0
 29653
 0
+7327073
 
 SB
 Anonymous
@@ -408,7 +409,7 @@ Anonymous
 ADD these members to the sheet
 12946199
 9375170
-7327073
+-1
 -1
 1772355
 5294837
@@ -549,7 +550,7 @@ ADD these members to the sheet
 44927
 73786
 104303
-17246
+-1
 53091
 47219
 13042
@@ -682,6 +683,8 @@ ADD these members to the sheet
 506929
 16538
 20733
+17246
+7327073
 
 MS
 PA

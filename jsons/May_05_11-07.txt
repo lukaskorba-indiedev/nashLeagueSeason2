@@ -59,7 +59,6 @@ PROCESSING SQUADS DONE
 ***    "Team CloudBot"
 ************************************************************************
 ADD these members to the sheet
-PDMS
 -1
 5294837
 2433597
@@ -408,7 +407,6 @@ Anonymous
 ***    "Solo"
 ************************************************************************
 ADD these members to the sheet
-PDMS
 12946199
 9375170
 -1

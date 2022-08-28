@@ -1,5 +1,24 @@
 {
   "ids" : {
+    "The Nashians " : [
+      "Cabba",
+      "Spally",
+      "Google",
+      "DV",
+      "Artful Dodger",
+      "Bel",
+      "CryptoChapter",
+      "Holy Dinosaur",
+      "TK",
+      "PCE",
+      "LAB",
+      "AWiseMan",
+      "NerV",
+      "bakey",
+      "KB",
+      "faibii",
+      "Belgriego"
+    ],
     "All for Nash" : [
       "JP99",
       "CV6",
@@ -123,28 +142,6 @@
       "LV",
       "Thor",
       "Vini"
-    ],
-    "The Trading Club" : [
-      "FGH",
-      "CAF",
-      "PA",
-      "DPPA",
-      "BMH",
-      "DR",
-      "JLH",
-      "AN",
-      "Pock",
-      "jenaretha",
-      "Desh",
-      "Jonathan",
-      "MPH",
-      "Turketbrain",
-      "RRD",
-      "MF",
-      "Camaro",
-      "FB",
-      "XYe",
-      "Albatros"
     ],
     "Team CloudBot" : [
       "Hunter",
@@ -290,6 +287,28 @@
       "Wilmo",
       "criticalmass",
       "PDMS"
+    ],
+    "The Trading Club" : [
+      "FGH",
+      "CAF",
+      "PA",
+      "DPPA",
+      "BMH",
+      "DR",
+      "JLH",
+      "AN",
+      "Pock",
+      "jenaretha",
+      "Desh",
+      "Jonathan",
+      "MPH",
+      "Turketbrain",
+      "RRD",
+      "MF",
+      "Camaro",
+      "FB",
+      "XYe",
+      "Albatros"
     ],
     "Solo" : [
       "JP99",
@@ -570,25 +589,6 @@
       "Vini",
       "Ciaran",
       "PDMS"
-    ],
-    "The Nashians " : [
-      "Cabba",
-      "Spally",
-      "Google",
-      "DV",
-      "Artful Dodger",
-      "Bel",
-      "CryptoChapter",
-      "Holy Dinosaur",
-      "TK",
-      "PCE",
-      "LAB",
-      "AWiseMan",
-      "NerV",
-      "bakey",
-      "KB",
-      "faibii",
-      "Belgriego"
     ]
   }
 }

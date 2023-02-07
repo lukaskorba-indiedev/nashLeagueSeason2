@@ -251,7 +251,7 @@ ADD these members to the sheet
 311225
 21547
 0
-7688
+-1
 0
 0
 855705
@@ -259,7 +259,7 @@ ADD these members to the sheet
 32984
 12489
 546
--1
+7688
 127504
 25537
 112703
@@ -609,7 +609,7 @@ ADD these members to the sheet
 29653
 25537
 16806
-102271
+-1
 27471
 26427
 126636
@@ -685,6 +685,7 @@ ADD these members to the sheet
 20733
 17246
 7327073
+102271
 
 MS
 PA
@@ -698,7 +699,7 @@ FGH
 VM
 TK
 MA
-MB
+AC
 
 278493
 107607

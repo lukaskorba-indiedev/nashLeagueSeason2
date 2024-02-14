@@ -101,6 +101,28 @@
       "Thor",
       "Vini"
     ],
+    "The Trading Club" : [
+      "FGH",
+      "CAF",
+      "PA",
+      "DPPA",
+      "BMH",
+      "DR",
+      "JLH",
+      "AN",
+      "Pock",
+      "jenaretha",
+      "Desh",
+      "Jonathan",
+      "MPH",
+      "Turketbrain",
+      "RRD",
+      "MF",
+      "Camaro",
+      "FB",
+      "XYe",
+      "Albatros"
+    ],
     "Solo" : [
       "JP99",
       "FGH",
@@ -385,28 +407,6 @@
       "ADK",
       "MCA"
     ],
-    "The Trading Club" : [
-      "FGH",
-      "CAF",
-      "PA",
-      "DPPA",
-      "BMH",
-      "DR",
-      "JLH",
-      "AN",
-      "Pock",
-      "jenaretha",
-      "Desh",
-      "Jonathan",
-      "MPH",
-      "Turketbrain",
-      "RRD",
-      "MF",
-      "Camaro",
-      "FB",
-      "XYe",
-      "Albatros"
-    ],
     "Team CloudBot" : [
       "Hunter",
       "NESS",
@@ -554,25 +554,6 @@
       "MCA",
       "DAH"
     ],
-    "The Nashians " : [
-      "Cabba",
-      "Spally",
-      "Google",
-      "DV",
-      "Artful Dodger",
-      "Bel",
-      "CryptoChapter",
-      "Holy Dinosaur",
-      "TK",
-      "PCE",
-      "LAB",
-      "AWiseMan",
-      "NerV",
-      "bakey",
-      "KB",
-      "faibii",
-      "Belgriego"
-    ],
     "Gunbot Team" : [
       "Gunthar",
       "Chuck Norris",
@@ -595,6 +576,25 @@
       "PWT",
       "DADbot247",
       "EJVO"
+    ],
+    "The Nashians " : [
+      "Cabba",
+      "Spally",
+      "Google",
+      "DV",
+      "Artful Dodger",
+      "Bel",
+      "CryptoChapter",
+      "Holy Dinosaur",
+      "TK",
+      "PCE",
+      "LAB",
+      "AWiseMan",
+      "NerV",
+      "bakey",
+      "KB",
+      "faibii",
+      "Belgriego"
     ]
   }
 }

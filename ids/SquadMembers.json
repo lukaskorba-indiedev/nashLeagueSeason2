@@ -1,27 +1,5 @@
 {
   "ids" : {
-    "The Trading Club" : [
-      "FGH",
-      "CAF",
-      "PA",
-      "DPPA",
-      "BMH",
-      "DR",
-      "JLH",
-      "AN",
-      "Pock",
-      "jenaretha",
-      "Desh",
-      "Jonathan",
-      "MPH",
-      "Turketbrain",
-      "RRD",
-      "MF",
-      "Camaro",
-      "FB",
-      "XYe",
-      "Albatros"
-    ],
     "Team Fabibi" : [
       "PN_COINDER",
       "Fabibi",
@@ -54,6 +32,25 @@
       "LV",
       "Thor",
       "Vini"
+    ],
+    "The Nashians " : [
+      "Cabba",
+      "Spally",
+      "Google",
+      "DV",
+      "Artful Dodger",
+      "Bel",
+      "CryptoChapter",
+      "Holy Dinosaur",
+      "TK",
+      "PCE",
+      "LAB",
+      "AWiseMan",
+      "NerV",
+      "bakey",
+      "KB",
+      "faibii",
+      "Belgriego"
     ],
     "Solo" : [
       "JP99",
@@ -558,25 +555,6 @@
       "Fox",
       "JS99"
     ],
-    "The Nashians " : [
-      "Cabba",
-      "Spally",
-      "Google",
-      "DV",
-      "Artful Dodger",
-      "Bel",
-      "CryptoChapter",
-      "Holy Dinosaur",
-      "TK",
-      "PCE",
-      "LAB",
-      "AWiseMan",
-      "NerV",
-      "bakey",
-      "KB",
-      "faibii",
-      "Belgriego"
-    ],
     "Gunbot Team" : [
       "Gunthar",
       "Chuck Norris",
@@ -599,6 +577,28 @@
       "PWT",
       "DADbot247",
       "EJVO"
+    ],
+    "The Trading Club" : [
+      "FGH",
+      "CAF",
+      "PA",
+      "DPPA",
+      "BMH",
+      "DR",
+      "JLH",
+      "AN",
+      "Pock",
+      "jenaretha",
+      "Desh",
+      "Jonathan",
+      "MPH",
+      "Turketbrain",
+      "RRD",
+      "MF",
+      "Camaro",
+      "FB",
+      "XYe",
+      "Albatros"
     ]
   }
 }

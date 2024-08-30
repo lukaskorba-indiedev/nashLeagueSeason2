@@ -1,28 +1,5 @@
 {
   "ids" : {
-    "Gunbot Team" : [
-      "Gunthar",
-      "Chuck Norris",
-      "TR",
-      "AY",
-      "Uri",
-      "PhiJey",
-      "Kinny",
-      "SunproMicro",
-      "anon",
-      "WJO",
-      "5CAR",
-      "SDH",
-      "JT",
-      "MewSocial",
-      "VonCount",
-      "HPB",
-      "OatKazama",
-      "SPB",
-      "PWT",
-      "DADbot247",
-      "EJVO"
-    ],
     "Team CloudBot" : [
       "Hunter",
       "NESS",
@@ -172,6 +149,29 @@
       "FPRH",
       "HK",
       "AC"
+    ],
+    "Gunbot Team" : [
+      "Gunthar",
+      "Chuck Norris",
+      "TR",
+      "AY",
+      "Uri",
+      "PhiJey",
+      "Kinny",
+      "SunproMicro",
+      "anon",
+      "WJO",
+      "5CAR",
+      "SDH",
+      "JT",
+      "MewSocial",
+      "VonCount",
+      "HPB",
+      "OatKazama",
+      "SPB",
+      "PWT",
+      "DADbot247",
+      "EJVO"
     ],
     "All for Nash" : [
       "JP99",

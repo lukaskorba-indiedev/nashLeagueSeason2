@@ -1,28 +1,5 @@
 {
   "ids" : {
-    "Gunbot Team" : [
-      "Gunthar",
-      "Chuck Norris",
-      "TR",
-      "AY",
-      "Uri",
-      "PhiJey",
-      "Kinny",
-      "SunproMicro",
-      "anon",
-      "WJO",
-      "5CAR",
-      "SDH",
-      "JT",
-      "MewSocial",
-      "VonCount",
-      "HPB",
-      "OatKazama",
-      "SPB",
-      "PWT",
-      "DADbot247",
-      "EJVO"
-    ],
     "Solo" : [
       "JP99",
       "FGH",
@@ -309,6 +286,29 @@
       "FPRH",
       "HK",
       "BK"
+    ],
+    "Gunbot Team" : [
+      "Gunthar",
+      "Chuck Norris",
+      "TR",
+      "AY",
+      "Uri",
+      "PhiJey",
+      "Kinny",
+      "SunproMicro",
+      "anon",
+      "WJO",
+      "5CAR",
+      "SDH",
+      "JT",
+      "MewSocial",
+      "VonCount",
+      "HPB",
+      "OatKazama",
+      "SPB",
+      "PWT",
+      "DADbot247",
+      "EJVO"
     ],
     "Team Fabibi" : [
       "PN_COINDER",

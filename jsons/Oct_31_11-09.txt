@@ -79,7 +79,7 @@ ADD these members to the sheet
 -1
 1321726
 25297
-119835
+-1
 268882
 504158
 83555
@@ -139,7 +139,7 @@ ADD these members to the sheet
 869222
 533982
 75862
-70133
+-1
 0
 11587
 0
@@ -162,7 +162,7 @@ ADD these members to the sheet
 568614
 916109
 32024
-1580
+-1
 0
 0
 11264
@@ -182,10 +182,10 @@ ADD these members to the sheet
 0
 0
 161384
-47092
+6269
 383624
 0
-56283
+-1
 35055
 1781879
 11003
@@ -202,11 +202,14 @@ ADD these members to the sheet
 29653
 0
 7327073
+56283
+1580
+70133
+119835
+47092
 
-SB
 Anonymous
 
-6269
 0
 ************************************************************************
 ***    "All for Nash"
@@ -219,7 +222,7 @@ ADD these members to the sheet
 2233685
 -1
 268345
-53670
+-1
 41211
 2644
 1390
@@ -251,7 +254,7 @@ ADD these members to the sheet
 311225
 21547
 0
-7688
+-1
 0
 0
 855705
@@ -259,7 +262,7 @@ ADD these members to the sheet
 32984
 12489
 546
--1
+53670
 127504
 25537
 112703
@@ -279,8 +282,10 @@ ADD these members to the sheet
 746998
 79568
 
+AC
 Anonymous
 
+7688
 0
 ************************************************************************
 ***    "The Trading Club"
@@ -407,6 +412,7 @@ Anonymous
 ***    "Solo"
 ************************************************************************
 ADD these members to the sheet
+AWS
 12946199
 9375170
 -1
@@ -470,7 +476,7 @@ ADD these members to the sheet
 951110
 581485
 -1
-12167
+-1
 259319
 -1
 137668
@@ -503,7 +509,7 @@ ADD these members to the sheet
 311225
 110903
 139602
-53670
+-1
 56346
 44681
 1486167
@@ -513,7 +519,7 @@ ADD these members to the sheet
 726481
 68914
 135213
-119835
+-1
 10844
 32024
 504158
@@ -530,7 +536,7 @@ ADD these members to the sheet
 196474
 68038
 31678
-19697
+-1
 144050
 11326
 25297
@@ -583,7 +589,7 @@ ADD these members to the sheet
 16558
 19246
 121790
-70133
+-1
 27545
 29861
 12003
@@ -592,7 +598,7 @@ ADD these members to the sheet
 108502
 14914
 24893
-56283
+-1
 22264
 224664
 170327
@@ -664,7 +670,7 @@ ADD these members to the sheet
 26248
 11750
 21749
-11427
+-1
 11407
 10034
 12932
@@ -685,11 +691,20 @@ ADD these members to the sheet
 20733
 17246
 7327073
+53670
+-1
+-1
+56283
+70133
+119835
+12167
+19697
+11427
 
 MS
 PA
 MA
-SB
+AC
 MS
 DV
 GB
@@ -698,7 +713,7 @@ FGH
 VM
 TK
 MA
-MB
+AC
 
 278493
 107607

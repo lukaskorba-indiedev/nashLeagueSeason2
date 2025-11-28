@@ -143,7 +143,7 @@ ADD these members to the sheet
 0
 11587
 0
-2096
+-1
 -1
 2776
 12190
@@ -207,6 +207,7 @@ ADD these members to the sheet
 70133
 119835
 47092
+2096
 
 Anonymous
 
@@ -222,7 +223,7 @@ ADD these members to the sheet
 2233685
 -1
 268345
-53670
+-1
 41211
 2644
 1390
@@ -262,7 +263,7 @@ ADD these members to the sheet
 32984
 12489
 546
-7688
+53670
 127504
 25537
 112703
@@ -282,8 +283,10 @@ ADD these members to the sheet
 746998
 79568
 
+AC
 Anonymous
 
+7688
 0
 ************************************************************************
 ***    "The Trading Club"
@@ -506,7 +509,7 @@ ADD these members to the sheet
 311225
 110903
 139602
-53670
+-1
 56346
 44681
 1486167
@@ -533,7 +536,7 @@ ADD these members to the sheet
 196474
 68038
 31678
-19697
+-1
 144050
 11326
 25297
@@ -667,7 +670,7 @@ ADD these members to the sheet
 26248
 11750
 21749
-11427
+-1
 11407
 10034
 12932
@@ -688,17 +691,20 @@ ADD these members to the sheet
 20733
 17246
 7327073
-47092
+53670
 -1
 -1
 56283
 70133
 119835
 12167
+19697
+11427
 
 MS
 PA
 MA
+AC
 MS
 DV
 GB
@@ -712,6 +718,7 @@ AC
 278493
 107607
 83305
+47092
 43210
 33885
 31001

@@ -1,5 +1,28 @@
 {
   "ids" : {
+    "Gunbot Team" : [
+      "Gunthar",
+      "Chuck Norris",
+      "TR",
+      "AY",
+      "Uri",
+      "PhiJey",
+      "Kinny",
+      "SunproMicro",
+      "anon",
+      "WJO",
+      "5CAR",
+      "SDH",
+      "JT",
+      "MewSocial",
+      "VonCount",
+      "HPB",
+      "OatKazama",
+      "SPB",
+      "PWT",
+      "DADbot247",
+      "EJVO"
+    ],
     "The Nashians " : [
       "Cabba",
       "Spally",
@@ -169,28 +192,6 @@
       "HK",
       "AC",
       "IM"
-    ],
-    "The Trading Club" : [
-      "FGH",
-      "CAF",
-      "PA",
-      "DPPA",
-      "BMH",
-      "DR",
-      "JLH",
-      "AN",
-      "Pock",
-      "jenaretha",
-      "Desh",
-      "Jonathan",
-      "MPH",
-      "Turketbrain",
-      "RRD",
-      "MF",
-      "Camaro",
-      "FB",
-      "XYe",
-      "Albatros"
     ],
     "Team Fabibi" : [
       "PN_COINDER",
@@ -515,29 +516,6 @@
       "AWS",
       "FG"
     ],
-    "Gunbot Team" : [
-      "Gunthar",
-      "Chuck Norris",
-      "TR",
-      "AY",
-      "Uri",
-      "PhiJey",
-      "Kinny",
-      "SunproMicro",
-      "anon",
-      "WJO",
-      "5CAR",
-      "SDH",
-      "JT",
-      "MewSocial",
-      "VonCount",
-      "HPB",
-      "OatKazama",
-      "SPB",
-      "PWT",
-      "DADbot247",
-      "EJVO"
-    ],
     "All for Nash" : [
       "JP99",
       "CV6",
@@ -605,6 +583,28 @@
       "soyoscarguty",
       "Fox",
       "JS99"
+    ],
+    "The Trading Club" : [
+      "FGH",
+      "CAF",
+      "PA",
+      "DPPA",
+      "BMH",
+      "DR",
+      "JLH",
+      "AN",
+      "Pock",
+      "jenaretha",
+      "Desh",
+      "Jonathan",
+      "MPH",
+      "Turketbrain",
+      "RRD",
+      "MF",
+      "Camaro",
+      "FB",
+      "XYe",
+      "Albatros"
     ]
   }
 }

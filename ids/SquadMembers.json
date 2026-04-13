@@ -1,24 +1,5 @@
 {
   "ids" : {
-    "The Nashians " : [
-      "Cabba",
-      "Spally",
-      "Google",
-      "DV",
-      "Artful Dodger",
-      "Bel",
-      "CryptoChapter",
-      "Holy Dinosaur",
-      "TK",
-      "PCE",
-      "LAB",
-      "AWiseMan",
-      "NerV",
-      "bakey",
-      "KB",
-      "faibii",
-      "Belgriego"
-    ],
     "Solo" : [
       "JP99",
       "FGH",
@@ -309,29 +290,6 @@
       "AWS",
       "FG"
     ],
-    "Gunbot Team" : [
-      "Gunthar",
-      "Chuck Norris",
-      "TR",
-      "AY",
-      "Uri",
-      "PhiJey",
-      "Kinny",
-      "SunproMicro",
-      "anon",
-      "WJO",
-      "5CAR",
-      "SDH",
-      "JT",
-      "MewSocial",
-      "VonCount",
-      "HPB",
-      "OatKazama",
-      "SPB",
-      "PWT",
-      "DADbot247",
-      "EJVO"
-    ],
     "Team Fabibi" : [
       "PN_COINDER",
       "Fabibi",
@@ -364,6 +322,29 @@
       "LV",
       "Thor",
       "Vini"
+    ],
+    "Gunbot Team" : [
+      "Gunthar",
+      "Chuck Norris",
+      "TR",
+      "AY",
+      "Uri",
+      "PhiJey",
+      "Kinny",
+      "SunproMicro",
+      "anon",
+      "WJO",
+      "5CAR",
+      "SDH",
+      "JT",
+      "MewSocial",
+      "VonCount",
+      "HPB",
+      "OatKazama",
+      "SPB",
+      "PWT",
+      "DADbot247",
+      "EJVO"
     ],
     "The Trading Club" : [
       "FGH",
@@ -605,6 +586,25 @@
       "soyoscarguty",
       "Fox",
       "JS99"
+    ],
+    "The Nashians " : [
+      "Cabba",
+      "Spally",
+      "Google",
+      "DV",
+      "Artful Dodger",
+      "Bel",
+      "CryptoChapter",
+      "Holy Dinosaur",
+      "TK",
+      "PCE",
+      "LAB",
+      "AWiseMan",
+      "NerV",
+      "bakey",
+      "KB",
+      "faibii",
+      "Belgriego"
     ]
   }
 }
